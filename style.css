@@ -1,7 +1,12 @@
+@font-face {
+    font-family: f1;
+    src: url(/Gilroy-Medium.ttf);
+}
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: f1;
 }
 html,body{
     height: 100%;
@@ -109,4 +114,5 @@ img{
     bottom: 5%;
     left: 3%;
     font-size: 17px;
+
 }
